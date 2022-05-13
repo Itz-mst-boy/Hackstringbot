@@ -1,4 +1,4 @@
-# Powered By @LegendBot_XD
+# Powered By @mr_sukkun
 
 ## ⚠️ Note : Dont Try To Missuse This Repo
 
