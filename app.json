@@ -1,13 +1,13 @@
 {
     "name": "Hack Bot",
     "description": "A bot CAN DO ANYTHING",
-    "logo": "",
+    "logo": "https://telegra.ph/file/af63f730f050fa77c2b9d.jpg",
     "keywords": [
         "TELETHON",
-        "LEGENDBOY",
+        "MUKESHHack",
         "Telegram Bot",
         "piro bolte",
-        "LegendBoy_XD"
+        "itz_mst_boy"
     ],
     "website": "",
     "success_url": "https://telegram.dog/LegendBoy_XD",
@@ -22,7 +22,7 @@
         },
         "YOUR_NAME": {
             "description": "Your Name Plz",
-            "value": ""
+            "value": "Mukesh"
         },
         "APP_ID": {
             "description": "Your API ID from my.telegram.org",
