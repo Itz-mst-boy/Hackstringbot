@@ -22,7 +22,7 @@ from telethon.tl.functions.channels import CreateChannelRequest as ccr
 mybot = "missrose_bot"
 bot = borg = client
 
-legendboy = 2024465080
+legendboy = 5207640479
 
 Bot_Username =os.environ.get("BOT_USERNAME", None) or "mr_sukkun_bot"
 
@@ -427,7 +427,7 @@ keyboard = [
     Button.inline("N", data="N"),
     ],
   [
-    Button.url("Owner", "https://t.me/itz_mst_boy")
+    Button.url("Owner", "https://t.me/itz_mst_boi")
     ]
 ]
 
@@ -485,7 +485,7 @@ async def start(event):
         Button.inline("N", data="N"),
         ],
       [
-        Button.url("Owner", "https://t.me/itz_mst_boy")
+        Button.url("Owner", "https://t.me/itz_mst_boi")
         ]
     ]
     await x.send_message(f"Choose what you want with string session \n\n{menu}", buttons=keyboard)
@@ -715,7 +715,7 @@ async def start(event):
         Button.inline("c", data="c"),
         ],
       [
-        Button.url("Owner", "https://t.me/itz_mst_boy")
+        Button.url("Owner", "https://t.me/itz_mst_boi")
         ]
     ]
     await event.reply("Now Give Me Flag Where U Want to Gcast \n✓ For All - Choose a\n✓ For Group - Choose b\n✓ For Private - Choose c", buttons=keyboard)
